@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Chinese-LLaMA-Alpaca-2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LLaMA-Factory" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/baby-llama2-chinese" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/litgpt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myllm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ourllama" vcs="Git" />
+  </component>
+</project>
